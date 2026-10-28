@@ -1,0 +1,18 @@
+Considere que o usuário digitou os seguintes conteudos no vetor:
+
+0  1  2  3  4   <=== índice
+23 46 67 87 12  <=== conteúdo
+
+Exercícios:
+1. Exibir o conteudo do vetor da última até a primeira posicao.
+12 87 67 46 23
+
+2. Somar os elementos contidos no vetor
+Soma = 235
+
+3. Exibir somente os elementos com conteúdo par
+1  4
+46 12  
+
+4. Contar quantos elementos estão entre 10 e 30 (inclusive)
+Há 2 elementos entre 10 e 30
